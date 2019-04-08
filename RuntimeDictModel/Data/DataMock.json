@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "data": {
+        "c_name": "class-1",
+        "teacher": {
+            "t_name": "gao sir",
+            "sex": 1
+        },
+        "students": [
+            {
+                "s_name": "zhangsan",
+                "age": 18
+            },
+            {
+                "s_name": "lisi",
+                "age": 17
+            },
+            {
+                "s_name": "王五",
+                "age": 16
+            }
+        ]
+    }
+}
